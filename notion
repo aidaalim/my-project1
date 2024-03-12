@@ -1,0 +1,7 @@
+Feature of GitHub - Webhook
+Webhook - automated job that will trigger each time you do commit
+for class- containers Jenkins
+Any cloud provider, any machine, any docker container, any k8s
+Docker -if i do manually i have to run 7commands:
+build,run,ps,test,tag,ligin,push= for this reason i don't need all commands i can run Jenkins
+Jenkinsfile allows us to do all the steps 
